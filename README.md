@@ -2,10 +2,17 @@
 Update of 3S~Bot
 
 3S~Bot with:
-- Web Support
+- Web Support:
+  - Login
+  - Register
+  - Logout
+  - Update to latest data when data update in bot (Use Refresh) 
+  - Buylimit
+  - Comingsoon Other Plugin
 - MultiFileAuth
-- Jadibot
-- Logger trace 
+- Jadibot MultiFileAuth (Have an Error! Need to fix) 
+- Restart bot when file main.js have error and got fixed
 - Latest [@adiwajshing/baileys](https://github.com/@adiwajshing/baileys)
+- Bug? play not return audio/video, fixed in here
 
 [Website](https://www.habustnyeh.xyz) 
