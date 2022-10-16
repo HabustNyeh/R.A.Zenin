@@ -7,13 +7,19 @@ Update of 3S~Bot
   - Register
   - Logout
   - Update to latest data when data update in bot (Use Refresh) 
-  - Buylimit
-  - Comingsoon Other Plugin
+  - Plugin Buylimit
+  - Coming soon Other Plugin
 - MultiFileAuth
-- Jadibot MultiFileAuth (Have an Error! Need to fix) 
+- Jadibot MultiFileAuth (Fix) 
 - Restart bot when file main.js have error and got fixed
 - Latest [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)
-- Bug? play not return audio/video (First Certificate) fixed in here
+- Bugs? play not return audio/video (First Certificate) fixed in here
+- When the bot is called, the bot will send a warning no more send spam warning
+- Unlimited database until your storage is full, but causes a little lag in the bot folder
 
+Bugs:
+- Because the bot updates the script and the data is quite large, there are some bugs, changes and errors in the script
+- Console error when there is such a large error that the bot continues to run even when the console is turned off
+- Bot is difficult to respond if the user has not registered 
 
-[Website](https://www.habustnyeh.xyz) 
+[Bot Website](https://www.habustnyeh.xyz) 
