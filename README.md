@@ -15,7 +15,7 @@ Update of 3S~Bot
 - Latest [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)
 - Bugs? play not return audio/video (First Certificate) fixed in here
 - When the bot is called, the bot will send a warning no more send spam warning
-- Unlimited database until your storage is full, but causes a little lag in the bot folder
+- Unlimited database until your storage is full, but causes a little lag in the bot folder [Here](https://github.com/HabustNyeh/zeninDB)
 
 Bugs:
 - Because the bot updates the script and the data is quite large, there are some bugs, changes and errors in the script
