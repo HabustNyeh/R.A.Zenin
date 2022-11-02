@@ -22,4 +22,4 @@ Bugs:
 - Console error when there is such a large error that the bot continues to run even when the console is turned off
 - Bot is difficult to respond if the user has not registered 
 
-[Bot Website](https://www.habustnyeh.xyz) 
+[Bot Website](https://www.myzenin.xyz) 
