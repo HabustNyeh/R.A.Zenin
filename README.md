@@ -8,6 +8,7 @@ Update of 3S~Bot
   - Logout
   - Update to latest data when data update in bot (Use Refresh) 
   - Plugin Buylimit
+  - Plugin Confess
   - Coming soon Other Plugin
 - MultiFileAuth
 - Jadibot MultiFileAuth (Fix) 
