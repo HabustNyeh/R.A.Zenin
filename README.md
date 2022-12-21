@@ -18,6 +18,9 @@ Update of 3S~Bot
 - When the bot is called, the bot will send a warning no more send spam warning
 - Unlimited database until your storage is full, but causes a little lag in the bot folder [Here](https://github.com/HabustNyeh/zeninDB)
 - Online 24 jam
+- Update self status WhatsApp
+- No task cancel
+- Antiprefix
 
 Bugs:
 - Because the bot updates the script and the data is quite large, there are some bugs, changes and errors in the script
